@@ -1,0 +1,6 @@
+numbers-parser
+pandas
+openpyxl
+playwright
+rapidfuzz
+tenacity
